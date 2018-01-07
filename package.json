@@ -18,5 +18,8 @@
   "homepage": "https://github.com/awo-dev/random-words-site#readme",
   "dependencies": {
     "rword": "^2.2.0"
+  },
+  "devDependencies": {
+    "fly": "^2.0.6"
   }
 }
