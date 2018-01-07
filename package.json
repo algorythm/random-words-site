@@ -1,0 +1,19 @@
+{
+  "name": "random-words",
+  "version": "1.0.0",
+  "description": "Basic website that generates some random words.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awo-dev/random-words-site.git"
+  },
+  "author": "Anders Wiberg Olsen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/awo-dev/random-words-site/issues"
+  },
+  "homepage": "https://github.com/awo-dev/random-words-site#readme"
+}
